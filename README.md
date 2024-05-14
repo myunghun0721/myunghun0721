@@ -1,4 +1,6 @@
 ### Hi there 👋
+## Welcome to my Playground! My name is Myunghun but you can call me Hun!
+## I'm a full-stack developer who wants to play [tetris]([url](https://tetr.io/))
 
 <!--
 **myunghun0721/myunghun0721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
