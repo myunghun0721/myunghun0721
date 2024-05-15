@@ -12,6 +12,7 @@ SoundCloud(group) [Live](https://soundcloud-project-m0ku.onrender.com/) | [Git](
 Animal-Crossingbnb [Live](https://aa-api-project-7o5y.onrender.com/) | [Git](https://github.com/myunghun0721/API-project)
 ## 
 ### My portfolio link is [here!](https://myunghun0721.github.io/portfolio/) or email to myunghun0721@gmail.com
+### [LinkedIn](www.linkedin.com/in/hunchoi)
 ##
 # Skills
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
