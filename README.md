@@ -7,7 +7,7 @@ I'm a full-stack developer who wants to play [Tetris](https://tetr.io/) <- TETR.
 
 DailyForge [Live](https://dailyforge-1.onrender.com) | [Git](https://github.com/myunghun0721/DailyForge)
 
-SoundCloud(group) [Live](https://soundcloud-project-m0ku.onrender.com/) | [Git](https://github.com/16kimj97/soundcloud-project)
+SoundCloud(group) [Live](https://soundcloud-gmmf.onrender.com/) | [Git](https://github.com/16kimj97/soundcloud-project)
 
 Animal-Crossingbnb [Live](https://aa-api-project-7o5y.onrender.com/) | [Git](https://github.com/myunghun0721/API-project)
 ## 
