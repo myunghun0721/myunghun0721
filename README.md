@@ -5,11 +5,16 @@ I'm a full-stack developer who wants to play [Tetris](https://tetr.io/) <- TETR.
 
 # Projects
 
-DailyForge [Live](https://dailyforge-1.onrender.com) | [Git](https://github.com/myunghun0721/DailyForge)
+DailyForge [Git](https://github.com/myunghun0721/DailyForge) --
 
-SoundCloud(group) [Live](https://soundcloud-gmmf.onrender.com/) | [Git](https://github.com/16kimj97/soundcloud-project)
+SoundCloud(group) [Git](https://github.com/16kimj97/soundcloud-project)
 
-Animal-Crossingbnb [Live](https://aa-api-project-7o5y.onrender.com/) | [Git](https://github.com/myunghun0721/API-project)
+Animal-Crossingbnb [Git](https://github.com/myunghun0721/API-project)
+<!--
+[Live](https://dailyforge-1.onrender.com)
+[Live](https://soundcloud-gmmf.onrender.com/)
+[Live](https://aa-api-project-7o5y.onrender.com/)
+-->
 ## 
 ### My portfolio link is [here!](https://myunghun0721.github.io/portfolio/) or email to myunghun0721@gmail.com
 ### My Linkedin - [LinkedIn](https://www.linkedin.com/in/hunchoi)
@@ -42,4 +47,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Happy Thanksgiving.
