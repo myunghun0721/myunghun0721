@@ -5,7 +5,7 @@ I'm a full-stack developer who wants to play [Tetris](https://tetr.io/) <- TETR.
 
 # Projects
 
-DailyForge [Git](https://github.com/myunghun0721/DailyForge) --
+DailyForge [Git](https://github.com/myunghun0721/DailyForge)
 
 SoundCloud(group) [Git](https://github.com/16kimj97/soundcloud-project)
 
